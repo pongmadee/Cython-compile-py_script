@@ -1,4 +1,4 @@
-# Cython: How to compile python script for Windows10 64-bit
+# Cython: How to compile with python script for Windows10
 Python script will be translated python code to pyd by Microsoft C/C++ compiler x64 (Visual Studio Community 2015).
 
 # Information : 
