@@ -18,7 +18,8 @@ Windows 10 SDK : https://developer.microsoft.com/en-us/windows/downloads/windows
 # Step by step :
 1.Set path for RC.exe --> "C:\Program Files (x86)\Windows Kits\10\bin\x64"
 
-2.Set path for Compiler CL.exe --> "F:\software\vs2015\VC\bin\amd64" (default: "C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\amd64")
+2.Set path for Compiler CL.exe --> "F:\software\vs2015\VC\bin\amd64" 
+(default: "C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\amd64")
 
 3.Command for compile: python setup.py build_ext --inplace
 
