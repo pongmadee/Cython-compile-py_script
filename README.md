@@ -7,7 +7,7 @@ http://cython.readthedocs.io/en/latest/src/userguide/source_files_and_compilatio
 https://en.wikipedia.org/wiki/Cython
 
 # Software:
-OS : Windows10 64-bit Version 1607
+OS : Windows10 64-bit
 
 Anaconda 4.3(Python 3.6, Cython 0.25.2) 64-bit For Windows 64-bit
 
