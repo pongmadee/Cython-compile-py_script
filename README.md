@@ -13,6 +13,8 @@ Anaconda 4.3(Python 3.6, Cython 0.25.2) 64-bit For Windows 64-bit
 
 Compiler : Microsoft C/C++ compiler x64 ( Visual Studio 2015 Community Based on 64-bit)
 
+Windows 10 SDK : https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk
+
 # Step by step :
 1.Set path for RC.exe --> "C:\Program Files (x86)\Windows Kits\10\bin\x64"
 
